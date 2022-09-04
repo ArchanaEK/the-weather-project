@@ -1,0 +1,19 @@
+.outerDiv{
+    height: 550px;
+    width: 650px;
+    background-color: aqua;
+    margin-top: 50px;
+    margin-left: 600px;
+    align-self: center;
+    border-radius: 200px;
+    padding: 66px;
+}
+
+body{
+   text-align: center;
+}
+
+#innerDiv{
+    display: flex;
+    justify-content: center;
+}
